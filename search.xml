@@ -4,38 +4,50 @@
   
     
     <entry>
-      <title>english</title>
+      <title>Blog Preface [ENG]</title>
       <link href="/2022/10/23/english/"/>
       <url>/2022/10/23/english/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音游往事</title>
-      <link href="/2022/10/23/worldf/"/>
-      <url>/2022/10/23/worldf/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里应该有我的正文内容</p><p>但是目前作为调试网站的初期，我也没有精力沉下心来写这个</p><p>等网站做到我想要的样子，再来慢慢写也不迟，这些故事，我或多或少都在以前聚会或者就在群里讲过。</p><p>Thank you.</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Blog-Preface"><a href="#Blog-Preface" class="headerlink" title="Blog Preface"></a>Blog Preface</h1><p>​     Here is the preface to the English version of my blog, good morning everyone.</p><p>​     The purpose of this blog was to have a place that was completely my own, where I could record everything I could think of. However, the process of building this blog did not go smoothly, for I am a complete computer technology layman, so there was a time I had to overturn all of them in the two-day process of building the site. but then in my efforts to finally make the site into what you see now, not bad, maybe, at least I am proud of it.</p><p>​     Some people may say, if you just want to record your thoughts and life, there are many sophisticated note taking software available, why must you build your own website? It’s true, but I think if something “can’t be said openly”, it’s no different from hiding it in your heart all the time, there are a lot of things, a lot of regrets, they are hidden in the heart for too long and then become a persistent disease, I deeply suffer from it, maybe “saying it openly” will help me. And, like tossing is kind of my character, I do not take it as a bad one, when I first learned about hexo blog, I realized that is it. That’s probably just how destiny works.</p><p>​    This blog is not only a record of my thoughts and life as I mentioned, but also occasionally I will write some thoughts arising from the books, movies, episodes, and even the games I have played recently. My knowledge is not enough to support me to recommend anything. But if there are some cold, more useful Internet resources, I will shared in this blog.</p><p>​     I mainly write in Chinese, which is my native language. My English is not good enough for me to express myself freely, so maybe every once in a while I’ll consolidate what I post and translate it into English and upload it again. But I’m still trying to learn English.  I myself look forward to the day when I can write original content in all English.</p><p>​     Thank you for reading this.</p>]]></content>
       
       
       <categories>
           
-          <category> 阿码故事会 </category>
+          <category> 个人博客的起点 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 音游 </tag>
+            <tag> 引言 </tag>
             
-            <tag> 故事 </tag>
+            <tag> English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网站引言</title>
+      <link href="/2022/10/23/worldf/"/>
+      <url>/2022/10/23/worldf/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="网站引言"><a href="#网站引言" class="headerlink" title="网站引言"></a>网站引言</h1><p>​       秉持着“能把想到的事情记录下来”的想法，我在各种网络教程和官方说明文档的指引下，开设了我自己的hexo博客。这花了我差不多两天的时间，Git、Node.js、Markdown格式，甚至Github账号也是这个时候才注册使用，因此也不可避免地走了一些弯路，第一天晚上我就搞砸了，不得不删库重启，所幸第二次尝试总算成功了，这就是现在大家所见到的博客的全貌，虽然还有些网页还没做好，有一些功能还没有实现，不过就目前来看能够支撑我进行一些写作了，至于未来我会不会再为网页添加一些其他的功能，那就敬请期待吧。</p><p>​        我不是计算机技术专业的学生，我的中学阶段也没有学习和尝试过计算机技术，很多概念我都不了解，只是在我好奇心起时，便会生一股动力去探索，<del>说难听点叫折磨自己</del>。或许是因为这个性格，有空闲的时间会抱着兴趣看一些其他专业的书籍，像是经济、政治、新闻专业的书，以后可能会看一些影视的书。可是这些书我看了也无法像真正专攻这个方向的同学一样有着很深的了解，且对我的未来，例如就业、考研也没有实质性帮助，因此理解我的人并不多，有些时候甚至自己也会怀疑自己，所以我刚刚说难听点就是折磨自己，大概就是这个道理。<strong>只是就像这个网页一样，当花了大量时间，最终呈现出来的，是个“虽然还有点欠缺，但是整体看上去还挺像样的”的“完全属于我自己的”博客时，心中难免会泛起得意之感，或许这可以安慰自己“折磨自己”终究还是有意义的吧。</strong></p><p>​       很高兴能在lxns.net的友链中留下自己的网页，我去看了看落雪的其他友链，他们的博客是很多技术学习的心得与说明相关，<del>我都看不懂……</del> 就如同我刚刚讲的，<strong>我的博客将主要记录我觉得有趣的故事、看书看剧看番玩游戏等的心得以及一些我觉得值得分享的好用的玩意。请保持期待。</strong></p><p>​        这个博客我并没有想过流量，如果你现在看到这里，我会很高兴。哪怕没有人来看也没有关系，我小透明已经习惯了，记录自己的地方，就没必要过分藏着掖着怕得罪人了。</p><p>​        就酱，大家早安。</p><p>​    </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人博客的起点 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 引言 </tag>
             
         </tags>
       
