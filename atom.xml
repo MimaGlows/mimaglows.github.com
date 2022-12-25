@@ -6,11 +6,37 @@
     <title>MimaGlows阿码不妙屋</title>
     <link>https://mimaglows.com/</link>
     
-    <atom:link href="https://mimaglows.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://mimaglows.com/atom.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天换头像为生</description>
-    <pubDate>Sun, 18 Dec 2022 14:32:15 GMT</pubDate>
+    <pubDate>Sun, 25 Dec 2022 09:36:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>流水账（第二）：域名备案、Wordpress、云端存储、teamspeak和洒落在你身上的晨光</title>
+      <link>https://mimaglows.com/2022/12/25/diary-dec/</link>
+      <guid>https://mimaglows.com/2022/12/25/diary-dec/</guid>
+      <pubDate>Sun, 25 Dec 2022 08:10:03 GMT</pubDate>
+      
+        
+        
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="圣诞快乐"><a href="#圣诞快乐" class="headerlink" title="圣诞快乐"></a>圣诞快乐</h3><p>欢迎我，还有大家，来看我十二月写的流水账。如果您恰好是在今天看到的这篇文章，那便祝你圣诞快乐，2022年的进度条已经到了98%，不知道您今年过得怎么样，对于主流舆论（至少是笔者看到的）来讲，2022年实在难说是一个好年，经历了两年防疫政策后我们似乎能够看到胜利的曙光，却在今年开春被撕破了一道口子后便陷入万劫不复之地，我不知道这个措辞是否恰当，但就从十二月月初政策急速转向来看用这个词也不过分。我甚至一天在社交媒体同时安慰多个在政策放开后阳性，发烧咳嗽躺在床上的人。那么看来，<strong>用“痛”来概括整个2022年应该再合适不过了</strong>，它可能是身患新冠导致的病痛，也可能是对那些活活无辜烧死的家人所触及的集体记忆之心痛，还是经历了三年强力防疫政策后脆弱不堪的经济的恢复之痛，以至带来的梦想破灭的痛。在这种集体的“痛”面前，很多人变得冷淡而毫无人性（不清楚是因为痛所带来的压力下人性的反应，还是人性本就如此，只是在一片向上的大环境中带上了友善的面具）。<strong>但是我希望至少是今天，我所带给您的圣诞快乐是绝对真诚的</strong>，快乐在这个日益无聊的世界里尤为珍贵，希望您在为这个世界，为自己的生存奔波之余也能缓缓脚步，发掘属于自己的快乐绿洲。2022年过去后就是2023年，正在看这篇文章的您，时间还在继续，您继续前进正是为了未来的自己，为了那些时间停留于某处的人。诚然，许多的痛仍然会在接下来的一年陪伴着我们，国家经济需要经历漫长且时时阵痛的恢复之路，但是有了痛苦，我想才会有人更坚定自己的信念，朝着自己应有的方向走下去，才更能懂得何为快乐之珍贵。希望您接下来的日子一切都好。</p><h3 id="域名、轻量应用服务器、搬迁图床和网站"><a href="#域名、轻量应用服务器、搬迁图床和网站" class="headerlink" title="域名、轻量应用服务器、搬迁图床和网站"></a>域名、轻量应用服务器、搬迁图床和网站</h3><p>12月初我购买了自己的顶级域名： <code>https://mimaglows.com</code> 在一段时间后我又不满足，于是购买了腾讯云的轻量应用服务器，并将自己的smms图床尽数搬迁到腾讯云COS中，等待域名备案下来后将网站整体从Github Pages迁移到这里，更换服务器。最开始是因为smms图床的域名在裸连情况下无法正常被解析。现在网站迁移过来后，整体访问速度快了不少。</p><p>我现阶段博客文章数本来也不多，hexo博客框架本就是一种静态网页，在你把内容图片全部挂载到图床的情况下其实Github Pages的访问速度也在接受范围之内，但是smms图床速度就成了一个大问题，刚刚说的域名无法正常解析是一个情况，在之前能够裸连正常访问的时间内速度也不理想。更换图床成了非常要紧的事情，而我又不想把图片放到别的公开图床，一方面是隐私考虑，另一方面是我实在害怕公共图床向smms一样突然整蛊，更换图床链接几乎要动每一处我放置了图片的文件，非常麻烦，所以就直接选了腾讯云COS搭建我的私有图床，至少在我想更换云服务器供应商（也就是一年）前我不用担心那么多，<strong>然后日结账单第一天我因为欠费0.01元被腾讯云停用了云服务器，<del>腾讯云纯纯杀软。</del></strong></p><p>我选择的是腾讯云的学生机，2核2G内存，每月300M公网流量，40GB系统盘，79元，我可买不起4核8G的学生机（最重要的续不起），但是事实证明我还是错了，我的服务器装的是Ubuntu，最开始我装了一个Ubuntu的图形界面，图形界面会占用大约300Mb的内存，结果导致我服务器经常爆内存宕机卡死，然而即使没有图形界面，现有的这个服务器连Minecraft服务器都无法开设，在开启Minecraft服务后，过一会就会因为内存占满强行关闭服务，至此我也打消了之前还想装SteamCMD去开设CSGO服务器的想法。</p><h3 id="Cloudreve、Teamspeak和Emby"><a href="#Cloudreve、Teamspeak和Emby" class="headerlink" title="Cloudreve、Teamspeak和Emby"></a>Cloudreve、Teamspeak和Emby</h3><p>虽然游戏服务器几乎无法开设，但是也可以玩点别的，Cloudreve是我在备案期间就在看的文档，能够有自己的网盘系统听上去确实是件迷人的事情，然而实际上我也做到了，欢迎各位访问： <code>https://cloud.mimaglows.com</code> 。Cloudreve可以完全不用占用服务器docker，直接连结OneDrive商用版进行存储，Onedrive商用版每个许可证只有1TB，但是我给每个注册会员都分配了64GB的空间，这肯定是不合理的，不过目前这玩意只有我一个人用，通过自己的域名去分享文件，真是一件挺有意思的事情。但是Onedrive E5的开发者许可证只有90天，网上倒是有教程延续自己的许可证时限，但是我只是沿着网上的教程做了，不敢保证之后一定会续期，说不定90天后我的云端存储系统直接暴毙当场了。我自己已经在自己搭建的网盘系统上传了一些我喜欢的电影和资料，用于分享给其他人：p</p><p>Teamspeak的开设也不复杂，跟着网上教程一步一步来就能实现了，顺便挂载了自己的域名，相比于Cloudreve和Emby方便一点就是不用专门为它申请一个SSL证书，因为它不需要被访问。与好友测试后效果很不错，相比Discord的优势在于Teamspeak的占用极低，CPU占用率大约只有1%，而Discord则在9-10%左右，这对我这种垃圾CPU电脑来说是很重要的，但是Teamspeak界面比较简陋，功能也比较单一，相对于Discord也有上手门槛，但是目前我们还在使用这个服务。现在语音服务24小时在线，你可以下载Teamspeak 3， 输入服务器地址：<code>voice.mimaglows.com</code>， 并输入密码<code>chino</code>就能</p><p>Emby的开设成功了，但最终被我放弃了，我只上传了一部影片，根本原因并不是没人看还是导入太难怎么样，我没有指望过流量这种东西。但是Emby的媒体库不支持从某个云盘直接导入，只能从本地读取，而我如果要让云盘里的电影进入Emby，就需要借助Rclone将我的云盘目录挂载到本地，再让Emby读取”本地的数据“，但读取”本地的数据“这个过程实际上是<strong>Emby向Rclone发出读取请求，Rclone将云盘上的数据加载后再回应Emby，这意味着我在Emby播放影片会消耗我的服务器公网流量</strong>，这和Cloudreve直接读取不同。我不敢这么霍霍我的300GB服务器公网流量，最终我就没有启用它。</p><h3 id="WordPress"><a href="#WordPress" class="headerlink" title="WordPress"></a>WordPress</h3><p>我不知道这是否是我在hexo框架下写的最后一篇博客，很大概率不是，因为我很喜欢用<strong>Typora</strong>写文章的感觉。但是我自己正在尝试搭建自己的WordPress网页，您现在可以去 <code>https://beta.mimaglows.com</code>看看Wordpress网站的搭建情况 (施工现场)，我的计划是如果Wordpress网页搭建顺利的话就会将我的主域名迁移到Wordpress网页中，而现有的hexo博客会回到最初的地方——Github Pages，并不是我不能专门建一个子域名去部署静态网站，而是在我预料的情况下，<strong>Github会比我的云服务器存在长久得多，或许比我的生命还要长，我不希望在我热情燃尽之后，或者我生命终结的时候，我写的东西，或许没有什么思考的结晶，但只是我这个人存在过的证明被如此简单的洗刷而被遗忘。</strong>所以存一份到Github Pages也相当于备份的作用，我会先用Typora写作并在hexo上传，再导入到Wordpress中进行其他的排版操作，我认为这还是能够比较好的平衡的。只不过我可能就没有精力再去照顾hexo的其他主体部分了。</p><h3 id="其他的"><a href="#其他的" class="headerlink" title="其他的"></a>其他的</h3><p>近期搞这些都没怎么多看书，惭愧。</p><p>今天一早把孤独摇滚第十二集看完了，真的很好看。</p><p>maimai昨天终于推了分，你喜欢sta我们就是朋友。（我朋友满天飞）</p><p>之后还有几篇报告要写，和两篇学期论文，我是ddl高手。（悲）</p><p>我的CSGO水平莫名其妙地进步了。</p><p>谢谢Coda468的圣诞礼物，它变成了本期流水账的封面。</p>]]></content:encoded>
+      
+      
+      <category domain="https://mimaglows.com/categories/%E6%B5%81%E6%B0%B4%E8%B4%A6/">流水账</category>
+      
+      
+      <category domain="https://mimaglows.com/tags/%E6%B5%81%E6%B0%B4%E8%B4%A6/">-流水账</category>
+      
+      
+      <comments>https://mimaglows.com/2022/12/25/diary-dec/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>流水账（第一）：王尔德、基督教、所罗门王、摇滚和感冒发烧</title>
