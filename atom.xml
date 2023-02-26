@@ -9,8 +9,32 @@
     <atom:link href="https://mimaglows.com/atom.xml" rel="self" type="application/rss+xml"/>
     
     <description>每天换头像为生</description>
-    <pubDate>Mon, 06 Feb 2023 12:03:12 GMT</pubDate>
+    <pubDate>Sun, 26 Feb 2023 12:48:29 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>随心的回忆，泪与笑的浮沉。</title>
+      <link>https://mimaglows.com/2023/02/26/the-past/</link>
+      <guid>https://mimaglows.com/2023/02/26/the-past/</guid>
+      <pubDate>Sun, 26 Feb 2023 12:23:11 GMT</pubDate>
+      
+        
+        
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>他告诉我，你想成为什么样的人，世界在你的眼前究竟是什么模样。我当时答不上来，当时我认为我不属于这里，我来到这里是钻了各种各样的狗屎运，以及钱，我深知其中的不公平，所以这让我显得自卑，这一份自卑情绪一直延续到了今天，即使到了大学依然如此，有一些人应当比我聪明的，但是他们错过了一些机会，或者没有足够的条件去掌握那个机会，所以我越过了他们来到了这个高度，所以某种意义上，我不断拼命地试图证明自己配得上这里。但是当时的我坐在他旁边，拿着可乐，在月光下乒乓球台上桌着，他聊着他的理想和兴趣，我就这样听着，试图用一些笑话去显得合群。</p><p>我搞砸了很多事情，那时的小学的孩子们心思是单纯的，笑得纯粹，能够单纯地释放爱，也能毫无羞愧地释放恶。我被同学们嘲笑到今天，因为那时只有班长对我好，所以与班长换座时，不知怎么地在课堂上哭了起来。我没有审题去写了一篇完全偏题的作文，这是一封书信，本来应该是写给自己的亲戚的，但是却不知怎么我写成了给老师的信，这还不算完，我写了一封满是质疑的信，我当时不明白为什么老师只在对外的公开课上上心（可能对当时我来说，老师会显得更加温柔些），也不知道为什么一定在每节课上写下本堂目标，我觉得那完全是浪费时间。我被老师一顿臭骂，我被我父母和婆婆一顿臭骂，我在妈妈的要求哭着重新写了一份给老师，可是这件事不算完，老师在课堂上把这封给老师的“满是偏见”的信在全班念了一遍，不过没有说出我的名字，但是同学们很快就知道了这封信是出自我的手，因为我当时坐在台下如坐针毡，面红耳赤，哭了起来。不知道为什么，这件事最后没有被同学们记住。如果说有一些事情能够慢慢淡忘的话，但我或许永远不能原谅这位当时年轻的、刻薄的女语文老师。</p><p>那时的我，不知为什么缺少被爱的感觉呢？我至今都想不明白。而这种事情在大学或许算走了出来，我知道并不是没有人不爱我，同时我也不再需要那么多的“承認欲求“了，我知道我现在的话多是一种表面，我没有和别人真正交过心，有时候我会觉得，把我内心的想法说出来只会被人嘲笑，所以有时候不说会好一点。</p><p>说起来，很多同龄人，在经历了大学的浮沉后就变得冷漠了，用冷酷的眼光打量他她它遇见的所有人，因为他她它会觉得这个人或许是影响其前进的竞争对手，不过说起来，他们想要追求的不过是一份不用想太多，也没有多好至少比较稳定的工作罢了。</p>]]></content:encoded>
+      
+      
+      <category domain="https://mimaglows.com/categories/%E5%9B%9E%E5%BF%86/">回忆</category>
+      
+      
+      
+      <comments>https://mimaglows.com/2023/02/26/the-past/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>流水账（其三）：新冠、广州行、新年、Xbox和电影</title>
@@ -116,29 +140,6 @@
     </item>
     
     <item>
-      <title>网站引言</title>
-      <link>https://mimaglows.com/2022/10/23/worldf/</link>
-      <guid>https://mimaglows.com/2022/10/23/worldf/</guid>
-      <pubDate>Sat, 22 Oct 2022 16:18:46 GMT</pubDate>
-      
-      <description>在个人网站的开头，我会说的话。</description>
-      
-      
-      
-      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="网站引言"><a href="#网站引言" class="headerlink" title="网站引言"></a>网站引言</h1><p>​       秉持着“能把想到的事情记录下来”的想法，我在各种网络教程和官方说明文档的指引下，开设了我自己的hexo博客。这花了我差不多两天的时间，Git、Node.js、Markdown格式，甚至Github账号也是这个时候才注册使用，因此也不可避免地走了一些弯路，第一天晚上我就搞砸了，不得不删库重启，所幸第二次尝试总算成功了，这就是现在大家所见到的博客的全貌，虽然还有些网页还没做好，有一些功能还没有实现，不过就目前来看能够支撑我进行一些写作了，至于未来我会不会再为网页添加一些其他的功能，那就敬请期待吧。</p><p>​        我不是计算机技术专业的学生，我的中学阶段也没有学习和尝试过计算机技术，很多概念我都不了解，只是在我好奇心起时，便会生一股动力去探索，<del>说难听点叫折磨自己</del>。或许是因为这个性格，有空闲的时间会抱着兴趣看一些其他专业的书籍，像是经济、政治、新闻专业的书，以后可能会看一些影视的书。可是这些书我看了也无法像真正专攻这个方向的同学一样有着很深的了解，且对我的未来，例如就业、考研也没有实质性帮助，因此理解我的人并不多，有些时候甚至自己也会怀疑自己，所以我刚刚说难听点就是折磨自己，大概就是这个道理。<strong>只是就像这个网页一样，当花了大量时间，最终呈现出来的，是个“虽然还有点欠缺，但是整体看上去还挺像样的”的“完全属于我自己的”博客时，心中难免会泛起得意之感，或许这可以安慰自己“折磨自己”终究还是有意义的吧。</strong></p><p>​       很高兴能在lxns.net的友链中留下自己的网页，我去看了看落雪的其他友链，他们的博客是很多技术学习的心得与说明相关，<del>我都看不懂……</del> 就如同我刚刚讲的，<strong>我的博客将主要记录我觉得有趣的故事、看书看剧看番玩游戏等的心得以及一些我觉得值得分享的好用的玩意。请保持期待。</strong></p><p>​        这个博客我并没有想过流量，如果你现在看到这里，我会很高兴。哪怕没有人来看也没有关系，我小透明已经习惯了，记录自己的地方，就没必要过分藏着掖着怕得罪人了。</p><p>​        就酱，大家早安。</p><p>​    </p>]]></content:encoded>
-      
-      
-      <category domain="https://mimaglows.com/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%B5%B7%E7%82%B9/">个人博客的起点</category>
-      
-      
-      <category domain="https://mimaglows.com/tags/%E5%BC%95%E8%A8%80/">引言</category>
-      
-      
-      <comments>https://mimaglows.com/2022/10/23/worldf/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>mimaglows.com目前开通的所有服务一览</title>
       <link>https://mimaglows.com/2022/10/23/ma-services/</link>
       <guid>https://mimaglows.com/2022/10/23/ma-services/</guid>
@@ -158,6 +159,29 @@
       
       
       <comments>https://mimaglows.com/2022/10/23/ma-services/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>网站引言</title>
+      <link>https://mimaglows.com/2022/10/23/worldf/</link>
+      <guid>https://mimaglows.com/2022/10/23/worldf/</guid>
+      <pubDate>Sat, 22 Oct 2022 16:18:46 GMT</pubDate>
+      
+      <description>在个人网站的开头，我会说的话。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="网站引言"><a href="#网站引言" class="headerlink" title="网站引言"></a>网站引言</h1><p>​       秉持着“能把想到的事情记录下来”的想法，我在各种网络教程和官方说明文档的指引下，开设了我自己的hexo博客。这花了我差不多两天的时间，Git、Node.js、Markdown格式，甚至Github账号也是这个时候才注册使用，因此也不可避免地走了一些弯路，第一天晚上我就搞砸了，不得不删库重启，所幸第二次尝试总算成功了，这就是现在大家所见到的博客的全貌，虽然还有些网页还没做好，有一些功能还没有实现，不过就目前来看能够支撑我进行一些写作了，至于未来我会不会再为网页添加一些其他的功能，那就敬请期待吧。</p><p>​        我不是计算机技术专业的学生，我的中学阶段也没有学习和尝试过计算机技术，很多概念我都不了解，只是在我好奇心起时，便会生一股动力去探索，<del>说难听点叫折磨自己</del>。或许是因为这个性格，有空闲的时间会抱着兴趣看一些其他专业的书籍，像是经济、政治、新闻专业的书，以后可能会看一些影视的书。可是这些书我看了也无法像真正专攻这个方向的同学一样有着很深的了解，且对我的未来，例如就业、考研也没有实质性帮助，因此理解我的人并不多，有些时候甚至自己也会怀疑自己，所以我刚刚说难听点就是折磨自己，大概就是这个道理。<strong>只是就像这个网页一样，当花了大量时间，最终呈现出来的，是个“虽然还有点欠缺，但是整体看上去还挺像样的”的“完全属于我自己的”博客时，心中难免会泛起得意之感，或许这可以安慰自己“折磨自己”终究还是有意义的吧。</strong></p><p>​       很高兴能在lxns.net的友链中留下自己的网页，我去看了看落雪的其他友链，他们的博客是很多技术学习的心得与说明相关，<del>我都看不懂……</del> 就如同我刚刚讲的，<strong>我的博客将主要记录我觉得有趣的故事、看书看剧看番玩游戏等的心得以及一些我觉得值得分享的好用的玩意。请保持期待。</strong></p><p>​        这个博客我并没有想过流量，如果你现在看到这里，我会很高兴。哪怕没有人来看也没有关系，我小透明已经习惯了，记录自己的地方，就没必要过分藏着掖着怕得罪人了。</p><p>​        就酱，大家早安。</p><p>​    </p>]]></content:encoded>
+      
+      
+      <category domain="https://mimaglows.com/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%B5%B7%E7%82%B9/">个人博客的起点</category>
+      
+      
+      <category domain="https://mimaglows.com/tags/%E5%BC%95%E8%A8%80/">引言</category>
+      
+      
+      <comments>https://mimaglows.com/2022/10/23/worldf/#disqus_thread</comments>
       
     </item>
     
